@@ -9,6 +9,10 @@ Think in systems. Build the infrastructure of tomorrow.
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Founder;Architecting+Scalable+Systems;Building+Digital+Infrastructure;Creating+AI+Powered+Products;Laravel+%7C+PHP+%7C+Docker+%7C+Cloud;Founder+of+Dazho+Studios" />
+</p>
+
+<p align="center">
 
 <a href="https://github.com/mrthemgi">
 <img src="https://komarev.com/ghpvc/?username=mrthemgi&style=for-the-badge&color=blue" />
